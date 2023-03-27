@@ -2,4 +2,5 @@
 
 using OptimalStudy;
 
-UnitTests.Run();
+var unitTests = new UnitTests("TestCases.json");
+unitTests.Run();

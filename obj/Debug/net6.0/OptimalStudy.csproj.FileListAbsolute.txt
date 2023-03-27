@@ -13,3 +13,4 @@ C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStu
 C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.pdb
 C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.genruntimeconfig.cache
 C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\ref\OptimalStudy.dll
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\bin\Debug\net6.0\TestCases.json
