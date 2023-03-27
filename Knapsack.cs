@@ -29,7 +29,6 @@ public class Knapsack<T>
     {
         OptimalItems = new List<T>();
         var stateSpace = new KnapsackState[Capacity + 1];
-        int maxProfit = 0;
 
         for (int i = 0; i < ValueCount; i++)
         {
