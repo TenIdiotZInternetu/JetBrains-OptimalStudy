@@ -1,0 +1,195 @@
+[
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 10,
+        "TimeToLearn": 1
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 15,
+        "TimeToLearn": 2
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 40,
+        "TimeToLearn": 3
+      }
+    ],
+    "TimeAvailable": 5,
+    "ExpectedQuestionsLearnt": 55
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 10,
+        "TimeToLearn": 1
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 15,
+        "TimeToLearn": 2
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 40,
+        "TimeToLearn": 3
+      }
+    ],
+    "TimeAvailable": 6,
+    "ExpectedQuestionsLearnt": 65
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 20,
+        "TimeToLearn": 1
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 30,
+        "TimeToLearn": 1
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 60,
+        "TimeToLearn": 1
+      }
+    ],
+    "TimeAvailable": 1,
+    "ExpectedQuestionsLearnt": 60
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 20,
+        "TimeToLearn": 2
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 30,
+        "TimeToLearn": 2
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 60,
+        "TimeToLearn": 2
+      }
+    ],
+    "TimeAvailable": 1,
+    "ExpectedQuestionsLearnt": 0
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 40,
+        "TimeToLearn": 4
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 30,
+        "TimeToLearn": 3
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 20,
+        "TimeToLearn": 2
+      },
+      {
+        "Name": "Topic 4",
+        "Questions": 50,
+        "TimeToLearn": 5
+      }
+    ],
+    "TimeAvailable": 10,
+    "ExpectedQuestionsLearnt": 100
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 0,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 0,
+        "TimeToLearn": 20
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 0,
+        "TimeToLearn": 40
+      },
+      {
+        "Name": "Topic 4",
+        "Questions": 0,
+        "TimeToLearn": 80
+      },
+      {
+        "Name": "Topic 5",
+        "Questions": 0,
+        "TimeToLearn": 120
+      }
+    ],
+    "TimeAvailable": 100,
+    "ExpectedQuestionsLearnt": 0
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 100,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 200,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 400,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 4",
+        "Questions": 500,
+        "TimeToLearn": 0
+      }
+    ],
+    "TimeAvailable": 1,
+    "ExpectedQuestionsLearnt": 1200
+  },
+  {
+    "Topics": [
+      {
+        "Name": "Topic 1",
+        "Questions": 100,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 2",
+        "Questions": 200,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 3",
+        "Questions": 400,
+        "TimeToLearn": 0
+      },
+      {
+        "Name": "Topic 4",
+        "Questions": 500,
+        "TimeToLearn": 0
+      }
+    ],
+    "TimeAvailable": 0,
+    "ExpectedQuestionsLearnt": 0
+  }
+]
