@@ -17,6 +17,12 @@ public class Knapsack<T>
     
     public Knapsack(int capacity, T[] itemOptions, int[] weights, int[] values)
     {
+        if (itemOptions.Length != weights.Length ||
+            itemOptions.Length != values.Length)
+        {
+            throw new ArgumentException("All arrays must be the same length");
+        }
+        
         Capacity = capacity;
         ItemOptions = itemOptions;
         Weights = weights;
