@@ -1,0 +1,15 @@
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\bin\Debug\net6.0\OptimalStudy.exe
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\bin\Debug\net6.0\OptimalStudy.deps.json
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\bin\Debug\net6.0\OptimalStudy.runtimeconfig.json
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\bin\Debug\net6.0\OptimalStudy.dll
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\bin\Debug\net6.0\OptimalStudy.pdb
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.csproj.AssemblyReference.cache
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.AssemblyInfoInputs.cache
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.AssemblyInfo.cs
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.csproj.CoreCompileInputs.cache
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.dll
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\refint\OptimalStudy.dll
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.pdb
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\OptimalStudy.genruntimeconfig.cache
+C:\Users\TIZI\Desktop\Kodiky\Random\JetBrains Internship\OptimalStudy\OptimalStudy\obj\Debug\net6.0\ref\OptimalStudy.dll
